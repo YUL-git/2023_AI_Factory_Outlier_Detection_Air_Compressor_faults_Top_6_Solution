@@ -1,4 +1,4 @@
-# 2023 AI Factory Top 6% of Outlier Detection Air Compressor faults Solution
+# 2023 AI Factory Outlier Detection Air Compressor faults Top 6% Solution
 AI solution that Outlier detection of Air Compressor
 
 ## Solution Overview
