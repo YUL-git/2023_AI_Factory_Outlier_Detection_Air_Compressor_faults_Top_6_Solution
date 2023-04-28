@@ -5,9 +5,9 @@ AI solution that Classifies the abnomalies of Air Compressor
 ![overview image](./figures/overview.png)
 
 ## Team member  
-|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">| <img src="https://avatars.githubusercontent.com/lastdefiance20" width="100">| <img src="https://avatars.githubusercontent.com/HannahYun" width="100">| <img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
-|-|-|-|  
-|[Jiyul Ham](https://github.com/YUL-git)|[Jaeyoon Jung](https://github.com/lastdefiance20), Leader|[Hannah Yun](https://github.com/HannahYun)|[Hyundo Lee](https://github.com/onsemiro11)|
+|<img src="https://avatars.githubusercontent.com/YUL-git" width="100">|<img src="https://avatars.githubusercontent.com/lastdefiance20" width="100">|<img src="https://avatars.githubusercontent.com/HannahYun" width="100">|<img src="https://avatars.githubusercontent.com/onsemiro11" width="100">|  
+|-|-|-|-|
+|[Jiyul Ham](https://github.com/YUL-git), Leader|[Jaeyoon Jung](https://github.com/lastdefiance20)|[Hannah Yun](https://github.com/HannahYun)|[Hyundo Lee](https://github.com/onsemiro11)|
 
 ## File Structure
 ```
