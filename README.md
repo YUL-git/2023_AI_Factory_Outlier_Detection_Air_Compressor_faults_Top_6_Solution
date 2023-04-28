@@ -21,7 +21,7 @@ AE_ABOD.ipynb
 
 ## Dataset Overview
 ![overview image](./figures/data_overview.png)  
-We train and evaluate our model using the dataset from [Classifying Smart Factory Product Quality Status](https://aifactory.space/competition/data/2226)
+We train and evaluate our model using the dataset from [Classify abnomalies of Air Compressor](https://aifactory.space/competition/data/2226)
 
 we assume that you have downloaded it and placed based on File Structure, inside the dataset folder.
 
