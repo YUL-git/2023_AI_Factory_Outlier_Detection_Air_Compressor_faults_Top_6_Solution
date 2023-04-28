@@ -13,9 +13,7 @@ AI solution that Classifies the abnomalies of Air Compressor
 ```
 ┖ figures
   ┖ ~
-┖ dataset
-  ┖ data ~
-┖ AE_ABOD.ipynb
+┖ AE_ABOD_SOTA_.ipynb
 ```
   
 AE_ABOD.ipynb  
