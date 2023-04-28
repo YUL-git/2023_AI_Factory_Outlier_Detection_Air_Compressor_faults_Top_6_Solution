@@ -1,4 +1,4 @@
-# 2023-AI-Factory-Outlier-detection-Air-Compressor-faults  
+# 2023-AI-Factory-Outlier-Detection-Air-Compressor-faults-Top-6%-Solution
 AI solution that Outlier detection of Air Compressor
 
 ## Solution Overview
