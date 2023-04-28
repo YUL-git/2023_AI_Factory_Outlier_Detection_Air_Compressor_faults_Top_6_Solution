@@ -26,5 +26,5 @@ We train and evaluate our model using the dataset from [Classifying Smart Factor
 
 we assume that you have downloaded it and placed based on File Structure, inside the dataset folder.
 
-## Submission Process
-> Run All code in 'AE_ABOD.ipynb' to classify abnomalies of air compressor
+## Submission Process  
+Run All code in 'AE_ABOD.ipynb' to classify abnomalies of air compressor
