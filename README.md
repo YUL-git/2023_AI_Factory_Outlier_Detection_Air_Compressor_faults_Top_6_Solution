@@ -1,5 +1,5 @@
-# 2023-AI-Factory-Diagnosing-Air-Compressor-faults  
-AI solution that Classifies the abnomalies of Air Compressor
+# 2023-AI-Factory-Outlier-detection-Air-Compressor-faults  
+AI solution that Outlier detection of Air Compressor
 
 ## Solution Overview
 ![overview image](./figures/overview.png)
@@ -21,7 +21,7 @@ AE_ABOD.ipynb
 
 ## Dataset Overview
 ![overview image](./figures/data_overview.png)  
-We train and evaluate our model using the dataset from [Classify abnomalies of Air Compressor](https://aifactory.space/competition/data/2226)
+We train and evaluate our model using the dataset from [Outlier detection of Air Compressor](https://aifactory.space/competition/data/2226)
 
 we assume that you have downloaded it and placed based on File Structure, inside the dataset folder.
 
